@@ -85,4 +85,4 @@ If you like this project, consider giving it a **star** on GitHub!
 
 Here’s what it looks like 👇
 
-![GridEdit Screenshot](GridEdit-Screenshot.png)
+![GridEdit Screenshot](Grid-Edit-Screenshot.png)
