@@ -4,7 +4,7 @@ A modern and responsive **Grid Layout Editor** that allows users to visually cre
 
 ---
 
-🔗 **Live Demo:** https://DevByFahad.github.io/gridedit/
+🔗 **Live Demo:** https://devbyfahad.github.io/Grid-Edit/
 
 ---
 
